@@ -1,0 +1,27 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="120" fill="#0D1117"/>
+
+  <!-- Path -->
+  <line x1="80" y1="60" x2="820" y2="60"
+        stroke="#A371F7"
+        stroke-width="3"
+        stroke-dasharray="10 8"/>
+
+  <!-- Earth -->
+  <text x="40" y="68" font-size="28">🌍</text>
+
+  <!-- Moon -->
+  <text x="830" y="68" font-size="28">🌕</text>
+
+  <!-- Rocket -->
+  <text x="80" y="68" font-size="28">
+    🚀
+    <animate attributeName="x"
+             from="80"
+             to="790"
+             dur="6s"
+             repeatCount="indefinite"/>
+  </text>
+
+</svg>

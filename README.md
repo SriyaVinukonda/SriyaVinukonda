@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Explorers! ✨
 <p align="center">
   <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 </p>

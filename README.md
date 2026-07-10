@@ -2,20 +2,37 @@
 <p align="center">
   <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 </p>
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Always+Learning,+Always+Exploring+🚀" />
 </p>
-<!--
-**SriyaVinukonda/SriyaVinukonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Always+Learning+Always+Exploring+🚀" />
+</p>
+
+## 🛰️ Mission Control
+
+```yaml
+Commander: Sriya Vinukonda
+
+Mission:
+Designing intelligent systems that solve real-world challenges.
+
+Current Objectives:
+  - Build Agentic AI Applications
+  - Develop End-to-End ML Systems
+  - Explore Computer Vision
+  - Master DevOps & Cloud
+
+Current Status:
+🟢 Online
+
+Mission Progress:
+████████░░ 80%
+
+Next Destination:
+Artificial General Intelligence 🚀
+```

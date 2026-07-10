@@ -105,19 +105,17 @@ Agentic Artificial Intelligence 🚀
 </tr>
 </table>
 
-## 🔥 Mission Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SriyaVinukonda&theme=tokyonight&hide_border=true"/>
-</p>
-
 ## 🚀 Mission Trajectory
 
 <p align="center">
   <img src="mission-trajectory.svg" width="100%" alt="Mission Trajectory"/>
 </p>
 
+## 🔥 Mission Streak
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SriyaVinukonda&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 

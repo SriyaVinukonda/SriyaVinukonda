@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="github-banner.png" alt="GitHub Banner" width="100%" />
+  <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 </p>
 <!--
 **SriyaVinukonda/SriyaVinukonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

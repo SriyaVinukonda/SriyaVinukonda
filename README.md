@@ -1,4 +1,4 @@
-# Hey Explorers! ✨
+<h1 align="center">🚀 Hey Explorers!!</h1>
 <p align="center">
   <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 </p>
@@ -51,49 +51,73 @@ Agentic Artificial Intelligence 🚀
   <img src="https://img.shields.io/badge/OCR-C026D3?style=for-the-badge&logo=tesseract&logoColor=white"/>
 </p>
 
-## 🚀 Current Missions
+## 🚀 Active Missions
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 🌐 UPI VoicePay
-**Voice-Based UPI for the Visually Impaired**
+
+🟢 **STATUS:** Active
 
 🎙️ Voice Commands  
 🔐 Voice Biometrics  
 💳 UPI Integration
 
+**Tech Stack**
+
+`Kotlin` `Whisper` `TTS` `UPI`
+
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 👗 Fashion Recommendation
-**AI Outfit Recommendation System**
+### 👗 Fashion AI
+
+🟢 **STATUS:** Active
 
 🧠 AI Recommendations  
 📷 Computer Vision  
 ⚡ FastAPI + React
 
-</td>
+**Tech Stack**
 
-<td width="33%" align="center">
-
-### ♻️ Smart Waste Segregation
-**AI-Based Waste Classification**
-
-📹 Computer Vision  
-🤖 YOLO  
-♻️ Smart Recycling
+`Python` `FastAPI` `React` `FAISS`
 
 </td>
 
+<td align="center" width="33%">
+
+### ♻️ Smart Waste AI
+
+🟢 **STATUS:** Active
+
+🤖 YOLO Detection  
+📹 Real-Time Vision  
+♻️ Waste Classification
+
+**Tech Stack**
+
+`YOLO` `OpenCV` `Python`
+
+</td>
 </tr>
 </table>
 
-## 📊 Mission Statistics
+## 🔥 Mission Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriyaVinukonda&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriyaVinukonda&layout=compact" />
+<img src="https://streak-stats.demolab.com?user=SriyaVinukonda&theme=tokyonight&hide_border=true"/>
 </p>
+
+
+
+
+
+
+
+<h1 align="center">⭐ Thanks for visiting Mission Control.</h1>
+
+<h2 align="center">Keep Exploring the Universe 🚀</h2>
+

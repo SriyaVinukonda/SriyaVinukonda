@@ -11,7 +11,7 @@
 
 
 
-# 🛰️ Mission Control
+## 🛰️ Mission Control
 
 ```yaml
 Commander: Sriya Vinukonda
@@ -34,7 +34,7 @@ Mission Progress:
 Next Destination:
 Agentic Artificial Intelligence 🚀
 ```
-# 🛠️ Spacecraft Systems
+## 🛠️ Spacecraft Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,7 +51,7 @@ Agentic Artificial Intelligence 🚀
   <img src="https://img.shields.io/badge/OCR-C026D3?style=for-the-badge&logo=tesseract&logoColor=white"/>
 </p>
 
-# 🚀 Current Missions
+## 🚀 Current Missions
 
 <table>
 <tr>
@@ -94,6 +94,6 @@ Agentic Artificial Intelligence 🚀
 ## 📊 Mission Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SriyaVinukonda&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriyaVinukonda&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SriyaVinukonda&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriyaVinukonda&layout=compact" />
 </p>
